@@ -1,0 +1,1 @@
+# Magizh_Technology
