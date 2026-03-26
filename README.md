@@ -1,4 +1,4 @@
-# Magizh Technology Corporate Website
+# Magizh Technology Web
 
 The official frontend implementation for Magizh Technology, showcasing services, portfolio, and company resources.
 
